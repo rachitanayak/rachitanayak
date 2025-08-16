@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hello!
 
+I’m Rachita, a Software Engineer skilled in React and TypeScript. I love building easy-to-use products that make a real difference for people.
+
+Checkout [my portfolio](https://rachita-nayak.vercel.app/) to know more.
 <!--
 **rachitanayak/rachitanayak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
