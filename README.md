@@ -1,39 +1,44 @@
-# Hi, I'm Rachita 👋
+```
+  React  ·  TypeScript  ·  Azure  ·  Microfrontends
+```
 
-Senior Frontend Developer with 5.5 years of experience building responsive, scalable, and enterprise-grade applications. I specialise in React and TypeScript, and love turning complex workflows into clean, intuitive interfaces that make a real difference for people.
+### I'm Rachita — I build frontend systems that hold up at enterprise scale.
+
+5.5 years of turning messy, complex workflows into interfaces people actually enjoy using. Based in Bengaluru, currently at PwC building products for global banking and enterprise clients.
+
+I care about the details — accessibility, performance, clean architecture — and I think good frontend work is as much about communication and collaboration as it is about code.
 
 ---
 
-## 🛠️ Tech Stack
+### ⚡ Things I work with
 
-**Languages**
+| | |
+|---|---|
+| **Core** | TypeScript · JavaScript (ES6+) · HTML5 · CSS3/Sass |
+| **UI** | React v18+ · Redux · Tailwind CSS |
+| **Build** | Webpack · Rsbuild · Module Federation |
+| **Test** | Jest · React Testing Library |
+| **Cloud & CI** | Azure · Azure DevOps · GitHub Actions |
 
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3%2FSass-1572B6?style=flat&logo=css3&logoColor=white)
+---
 
-**Frameworks & Libraries**
+### 🏗️ What I've shipped
 
-![React](https://img.shields.io/badge/React-v18+-61DAFB?style=flat&logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=flat&logo=d3.js&logoColor=white)
+**Shared alerts & notifications service**
+A microfrontend-based notification layer consumed across multiple enterprise applications — built to be reusable, decoupled, and easy to integrate without touching each app's core.
 
-**Testing**
+**AI-assisted chat & document automation**
+Conversational UIs and automated processing interfaces integrated with GPT and Azure AI services. Reduced manual effort substantially across compliance and content review workflows.
 
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
-![React Testing Library](https://img.shields.io/badge/React_Testing_Library-E33332?style=flat&logo=testing-library&logoColor=white)
+**Enterprise dashboards**
+Data-heavy interfaces for transaction monitoring, fraud detection, and compliance reporting — AG Grid, custom charting, and a lot of performance tuning to keep large datasets snappy.
 
-**Build Tools**
+**CI/CD pipelines**
+End-to-end deployment workflows with GitHub Actions and Azure DevOps. Cut release cycles significantly and brought production deploys from hours down to under two.
 
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black)
-![Rsbuild](https://img.shields.io/badge/Rsbuild-CC3534?style=flat)
-![Module Federation](https://img.shields.io/badge/Module_Federation-Microfrontend-6B7280?style=flat)
+---
 
-**Cloud & DevOps**
+### 📬 Find me here
 
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rachitanayak-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rachitanayak)
+[![Email](https://img.shields.io/badge/Email-rachitanayak9@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:rachitanayak9@gmail.com)
