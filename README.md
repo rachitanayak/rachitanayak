@@ -1,5 +1,5 @@
 ```
-  React  ·  TypeScript  ·  Azure  ·  Microfrontends
+  React  ·  TypeScript  ·  Azure  
 ```
 
 ### I'm Rachita — I build frontend systems that hold up at enterprise scale.
